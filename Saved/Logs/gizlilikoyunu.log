@@ -1608,3 +1608,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.03-20.38.17:707][101]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/game/maps/housemap' took 0.041
 [2022.08.03-20.38.17:707][101]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
 [2022.08.03-20.38.25:965][127]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.38.39:787][168]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
