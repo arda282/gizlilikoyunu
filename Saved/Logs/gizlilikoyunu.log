@@ -1600,3 +1600,11 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.03-20.35.38:903][527]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2022.08.03-20.35.52:653][568]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2022.08.03-20.36.39:214][789]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.37.16:452][920]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.37.59:434][ 48]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.38.17:698][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.08.03-20.38.17:706][101]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/housemap_Auto1
+[2022.08.03-20.38.17:706][101]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/housemap_Auto1C13D10304EFBCF854FE68D8A9C1F65F9.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/housemap_Auto1.umap'
+[2022.08.03-20.38.17:707][101]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/game/maps/housemap' took 0.041
+[2022.08.03-20.38.17:707][101]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2022.08.03-20.38.25:965][127]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
