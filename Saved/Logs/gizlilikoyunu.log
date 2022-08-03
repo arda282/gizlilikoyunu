@@ -2271,3 +2271,31 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.08.03-20.33.36:670][517]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
 [2022.08.03-20.33.36:955][530]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7617
 [2022.08.03-20.33.36:956][530]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.38:823][612]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7607
+[2022.08.03-20.33.38:823][612]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.38:823][612]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7597
+[2022.08.03-20.33.38:823][612]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.40:534][646]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7587
+[2022.08.03-20.33.40:535][646]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.41:302][688]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7577
+[2022.08.03-20.33.41:302][688]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.41:492][694]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7567
+[2022.08.03-20.33.41:492][694]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.41:706][703]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7557
+[2022.08.03-20.33.41:706][703]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.42:213][722]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7547
+[2022.08.03-20.33.42:213][722]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.42:523][735]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7537
+[2022.08.03-20.33.42:523][735]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.43:669][791]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7527
+[2022.08.03-20.33.43:669][791]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.44:229][820]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7517
+[2022.08.03-20.33.44:229][820]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.44:921][857]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7507
+[2022.08.03-20.33.44:921][857]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.45:415][878]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7497
+[2022.08.03-20.33.45:415][878]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.45:951][887]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7487
+[2022.08.03-20.33.45:951][887]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-20.33.47:223][954]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7477
+[2022.08.03-20.33.47:223][954]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
