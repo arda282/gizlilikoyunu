@@ -1041,3 +1041,51 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.03-20.28.00:555][814]LogObjectTools: Currently 3 active worlds: /Game/game/maps/house.house, /Engine/Transient.World_0, /Engine/Transient.World_1
 [2022.08.03-20.28.02:296][814]LogSlate: Window 'Unable to delete level' being destroyed
 [2022.08.03-20.28.02:302][814]Message dialog closed, result: Ok, title: Unable to delete level, text: Unable to delete level while it is open
+[2022.08.03-20.28.10:063][575]LogSlate: Window 'Open Level' being destroyed
+[2022.08.03-20.28.11:165][668]LogWindows: Warning: OpenClipboard failed with error code 5
+[2022.08.03-20.28.13:601][737]LogSlate: Window 'New Level' being destroyed
+[2022.08.03-20.28.13:606][737]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.03-20.28.13:607][737]LightingResults: New page: Lighting Build
+[2022.08.03-20.28.13:607][737]LoadErrors: New page: Loading map: Template_Default.umap
+[2022.08.03-20.28.13:633][737]LogWorld: UWorld::CleanupWorld for house, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-20.28.13:634][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.28.13:634][737]MapCheck: New page: Map Check
+[2022.08.03-20.28.13:634][737]LightingResults: New page: Lighting Build
+[2022.08.03-20.28.13:666][737]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-20.28.13:668][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.08.03-20.28.13:677][737]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2022.08.03-20.28.13:677][737]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-20.28.13:677][737]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-20.28.13:677][737]LogAIModule: Creating AISystem for world Untitled_2
+[2022.08.03-20.28.13:679][737]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.03-20.28.13:711][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.08.03-20.28.13:712][737]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.03-20.28.13:712][737]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,141ms to complete.
+[2022.08.03-20.28.13:712][737]LogFileHelpers: Loading map 'Template_Default' took 0.105
+[2022.08.03-20.28.17:576][984]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu'
+[2022.08.03-20.28.23:377][984]LogSlate: Window 'Save Level As' being destroyed
+[2022.08.03-20.28.23:505][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.08.03-20.28.23:512][984]LogSavePackage: Moving output files for package: /Game/game/maps/housemap
+[2022.08.03-20.28.23:512][984]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/housemapCDA4972740E62CFF94D99397B6D6BA3C.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Content/game/maps/housemap.umap'
+[2022.08.03-20.28.23:682][984]LogSavePackage: Moving output files for package: /Game/game/maps/housemap_BuiltData
+[2022.08.03-20.28.23:682][984]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/housemap_BuiltData02993A2D474699039A2C388D86690E84.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Content/game/maps/housemap_BuiltData.uasset'
+[2022.08.03-20.28.24:155][984]LogFileHelpers: Saving map 'housemap' took 0.756
+[2022.08.03-20.28.24:163][984]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.03-20.28.24:163][984]LogContentValidation: Display: Validating World /Game/game/maps/housemap.housemap
+[2022.08.03-20.28.24:163][984]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/game/maps/housemap_BuiltData.housemap_BuiltData
+[2022.08.03-20.28.24:851][997]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu'
+[2022.08.03-20.28.27:653][152]LogObjectTools: Deleting 1 worlds: /Game/game/maps/house.house
+[2022.08.03-20.28.27:653][152]LogObjectTools: Currently 3 active worlds: /Game/game/maps/housemap.housemap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.08.03-20.28.27:735][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.08.03-20.28.28:569][152]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.03-20.28.28:574][152]LogWorld: UWorld::CleanupWorld for house, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-20.28.28:574][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.28.28:745][152]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.08.03-20.28.28:745][152]LogWorld: UWorld::CleanupWorld for house, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-20.28.28:745][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.28.28:806][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.08.03-20.28.28:839][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.08.03-20.28.28:862][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.08.03-20.28.29:219][152]SourceControl: Error: Updated 0 paths from the index
+[2022.08.03-20.28.29:469][152]SourceControl: rm 'Content/game/maps/house.umap'
+[2022.08.03-20.28.36:988][336]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
