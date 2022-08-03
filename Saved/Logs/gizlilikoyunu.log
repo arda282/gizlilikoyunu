@@ -1769,3 +1769,7 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.08.03-21.16.55:388][462]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
 [2022.08.03-21.16.55:498][468]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1951
 [2022.08.03-21.16.55:498][468]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-21.16.56:076][498]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1941
+[2022.08.03-21.16.56:077][498]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.08.03-21.16.58:550][606]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1931
+[2022.08.03-21.16.58:550][606]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
