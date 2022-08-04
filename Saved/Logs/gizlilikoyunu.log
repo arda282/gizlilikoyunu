@@ -1609,3 +1609,1215 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.03-20.38.17:707][101]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
 [2022.08.03-20.38.25:965][127]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2022.08.03-20.38.39:787][168]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.39.19:373][286]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.39.33:871][439]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.39.47:216][479]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.40.34:073][735]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.41.12:803][955]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.41.23:843][988]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.41.36:234][ 25]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.41.37:497][ 65]LogFactory: Error: Can't find file 'Modern House_05_fbx.FBX' for import
+[2022.08.03-20.41.39:593][ 65]LogSlate: Window 'Message' being destroyed
+[2022.08.03-20.41.39:601][ 65]Message dialog closed, result: Ok, title: Message, text: Failed to import 'Modern House_05_fbx.FBX'. Failed to create asset '/Game/game/maps/Modern_House_05_fbx'.
+Please see Output Log for details.
+[2022.08.03-20.41.39:601][ 65]LogAssetTools: Warning: Failed to import 'Modern House_05_fbx.FBX'. Failed to create asset '/Game/game/maps/Modern_House_05_fbx'.
+Please see Output Log for details.
+[2022.08.03-20.41.41:766][170]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.03-20.41.41:782][170]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.03-20.41.41:789][171]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.03-20.41.43:459][290]LogContentBrowser: Attempting asset rename: NewFolder -> house
+[2022.08.03-20.41.43:461][290]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.03-20.41.57:401][370]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.42.10:004][442]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../Users/user/Downloads/Modern House_05_fbx.FBX)
+[2022.08.03-20.42.10:019][442]LogFbx: Loading FBX Scene from ../../../../Users/user/Downloads/Modern House_05_fbx.FBX
+[2022.08.03-20.42.10:036][442]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.03-20.42.11:252][442]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.08.03-20.42.11:274][442]LogMaterial: Display: Missing cached shadermap for Modern_House_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 638B201B64CD6E0C003D18B368CFA0D7CA4963C7), compiling. 
+[2022.08.03-20.42.11:277][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_01
+[2022.08.03-20.42.11:291][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_01...
+[2022.08.03-20.42.11:316][442]LogStaticMesh: Built static mesh [0.03s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01.Modern_House_05_fbx_MH1_OBJ_01
+[2022.08.03-20.42.11:332][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_02
+[2022.08.03-20.42.11:386][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_02...
+[2022.08.03-20.42.11:420][442]LogStaticMesh: Built static mesh [0.03s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02.Modern_House_05_fbx_MH1_OBJ_02
+[2022.08.03-20.42.11:425][442]LogStaticMesh: Warning: Modern_House_05_fbx_MH1_OBJ_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.08.03-20.42.11:425][442]LogStaticMesh: Warning: Modern_House_05_fbx_MH1_OBJ_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.08.03-20.42.11:438][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_03
+[2022.08.03-20.42.11:451][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_03...
+[2022.08.03-20.42.11:470][442]LogStaticMesh: Built static mesh [0.02s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.42.11:481][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_04
+[2022.08.03-20.42.11:492][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_04...
+[2022.08.03-20.42.11:512][442]LogStaticMesh: Built static mesh [0.02s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.42.11:524][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_05
+[2022.08.03-20.42.11:539][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_05...
+[2022.08.03-20.42.11:562][442]LogStaticMesh: Built static mesh [0.02s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05.Modern_House_05_fbx_MH1_OBJ_05
+[2022.08.03-20.42.11:586][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_06
+[2022.08.03-20.42.11:657][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_06...
+[2022.08.03-20.42.11:699][442]LogStaticMesh: Built static mesh [0.04s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06.Modern_House_05_fbx_MH1_OBJ_06
+[2022.08.03-20.42.11:705][442]LogStaticMesh: Warning: Modern_House_05_fbx_MH1_OBJ_06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.08.03-20.42.11:705][442]LogStaticMesh: Warning: Modern_House_05_fbx_MH1_OBJ_06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.08.03-20.42.11:721][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_07
+[2022.08.03-20.42.11:727][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_07...
+[2022.08.03-20.42.11:739][442]LogStaticMesh: Built static mesh [0.01s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07.Modern_House_05_fbx_MH1_OBJ_07
+[2022.08.03-20.42.11:748][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_08
+[2022.08.03-20.42.11:750][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_08...
+[2022.08.03-20.42.11:754][442]LogStaticMesh: Built static mesh [0.00s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_08.Modern_House_05_fbx_MH1_OBJ_08
+[2022.08.03-20.42.11:764][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_09
+[2022.08.03-20.42.11:776][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_09...
+[2022.08.03-20.42.11:801][442]LogStaticMesh: Built static mesh [0.03s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_09.Modern_House_05_fbx_MH1_OBJ_09
+[2022.08.03-20.42.11:815][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_10
+[2022.08.03-20.42.11:861][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_10...
+[2022.08.03-20.42.11:919][442]LogStaticMesh: Built static mesh [0.06s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10.Modern_House_05_fbx_MH1_OBJ_10
+[2022.08.03-20.42.11:938][442]LogFbx: Display: Triangulating static mesh MH1_OBJ_11
+[2022.08.03-20.42.11:981][442]LogStaticMesh: Display: Building static mesh Modern_House_05_fbx_MH1_OBJ_11...
+[2022.08.03-20.42.12:037][442]LogStaticMesh: Built static mesh [0.06s] /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11
+[2022.08.03-20.42.12:318][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02) ...
+[2022.08.03-20.42.14:585][442]LogMeshUtilities: Finished distance field build in 2.3s - 126x126x28 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 85% occupied, 147 triangles, Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.42.14:603][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03) ...
+[2022.08.03-20.42.15:955][442]LogMeshUtilities: Finished distance field build in 1.4s - 105x84x49 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 52% occupied, 96 triangles, Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.42.15:973][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04) ...
+[2022.08.03-20.42.16:362][442]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.42.17:154][442]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 98% occupied, 198 triangles, Modern_House_05_fbx_MH1_OBJ_05
+[2022.08.03-20.42.17:172][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05) ...
+[2022.08.03-20.42.17:760][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06) ...
+[2022.08.03-20.42.18:181][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07) ...
+[2022.08.03-20.42.18:843][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_08) ...
+[2022.08.03-20.42.19:130][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_09) ...
+[2022.08.03-20.42.23:175][442]LogMeshUtilities: Finished distance field build in 4.1s - 126x119x63 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 63% occupied, 605 triangles, Modern_House_05_fbx_MH1_OBJ_10
+[2022.08.03-20.42.23:193][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10) ...
+[2022.08.03-20.42.23:625][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11) ...
+[2022.08.03-20.42.24:163][442]FBXImport: Warning: Modern_House_05_fbx_MH1_OBJ_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.08.03-20.42.24:163][442]FBXImport: Warning: Modern_House_05_fbx_MH1_OBJ_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.08.03-20.42.24:163][442]FBXImport: Warning: Modern_House_05_fbx_MH1_OBJ_06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.08.03-20.42.24:163][442]FBXImport: Warning: Modern_House_05_fbx_MH1_OBJ_06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.08.03-20.42.24:238][442]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01) ...
+[2022.08.03-20.42.26:244][442]LogMeshUtilities: Finished distance field build in 2.1s - 126x126x28 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 85% occupied, 147 triangles, Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.42.27:939][449]LogMeshUtilities: Finished distance field build in 1.5s - 105x84x49 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 52% occupied, 96 triangles, Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.42.28:938][452]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 98% occupied, 198 triangles, Modern_House_05_fbx_MH1_OBJ_05
+[2022.08.03-20.42.33:760][529]LogSlate: Window 'Message Log' being destroyed
+[2022.08.03-20.42.33:788][529]LogSlate: Window 'Message Log' being destroyed
+[2022.08.03-20.42.35:266][550]LogMeshUtilities: Finished distance field build in 4.3s - 126x119x63 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 63% occupied, 605 triangles, Modern_House_05_fbx_MH1_OBJ_10
+[2022.08.03-20.42.39:223][642]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.42.50:603][676]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.43.13:447][931]LogShaderCompilers: Display: ================================================
+[2022.08.03-20.43.13:447][931]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.03-20.43.13:447][931]LogShaderCompilers: Display: Total job queries 192, among them cache hits 2 (1.04%)
+[2022.08.03-20.43.13:447][931]LogShaderCompilers: Display: Tracking 187 distinct input hashes that result in 4 distinct outputs (2.14%)
+[2022.08.03-20.43.13:447][931]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 1024.00 MB (1.00 GB) budget. Usage: 0.00%
+[2022.08.03-20.43.13:447][931]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Shaders Compiled: 94
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Jobs assigned 190, completed 187 (98.42%)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Average time worker was idle: 8.59 s
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Time job spent in pending queue: average 27.93 s, longest 72.98 s
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Job execution time: average 2.20 s, max 6.09 s
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Job life time (pending + execution): average 30.57 s, max 73.94
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 140.15 s
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Jobs were issued in 190 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Average processing rate: 1.33 jobs/sec
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Effective parallelization: 2.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   46 times, average 2.55 sec, max 5.30 sec, min 1.53 sec)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   46 times, average 2.50 sec, max 5.41 sec, min 1.47 sec)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   47 times, average 2.39 sec, max 4.83 sec, min 1.37 sec)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 2.01 sec, max 2.01 sec, min 2.01 sec)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.79 sec, max 1.79 sec, min 1.79 sec)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.07% of total time (compiled   46 times, average 2.55 sec, max 5.30 sec, min 1.53 sec)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.50% of total time (compiled   46 times, average 2.50 sec, max 5.41 sec, min 1.47 sec)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display:                                                 FLumenCardVS - 28.79% of total time (compiled   47 times, average 2.39 sec, max 4.83 sec, min 1.37 sec)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.67% of total time (compiled   46 times, average 0.90 sec, max 2.43 sec, min 0.43 sec)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 0.52% of total time (compiled    1 times, average 2.01 sec, max 2.01 sec, min 2.01 sec)
+[2022.08.03-20.43.13:448][931]LogShaderCompilers: Display: ================================================
+[2022.08.03-20.43.14:282][959]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10.Modern_House_05_fbx_MH1_OBJ_10
+[2022.08.03-20.43.14:282][959]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10.Modern_House_05_fbx_MH1_OBJ_10
+[2022.08.03-20.43.14:283][959]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10.Modern_House_05_fbx_MH1_OBJ_10 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_3
+[2022.08.03-20.43.15:882][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10.Modern_House_05_fbx_MH1_OBJ_10
+[2022.08.03-20.43.15:882][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10.Modern_House_05_fbx_MH1_OBJ_10
+[2022.08.03-20.43.15:882][ 54]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10.Modern_House_05_fbx_MH1_OBJ_10 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_4
+[2022.08.03-20.43.25:904][694]Cmd: TRANSACTION UNDO
+[2022.08.03-20.43.25:904][694]LogEditorTransaction: Undo Scale Elements
+[2022.08.03-20.43.26:353][700]Cmd: TRANSACTION UNDO
+[2022.08.03-20.43.26:353][700]LogEditorTransaction: Undo Scale Elements
+[2022.08.03-20.43.26:822][715]Cmd: TRANSACTION UNDO
+[2022.08.03-20.43.26:822][715]LogEditorTransaction: Undo Scale Elements
+[2022.08.03-20.43.32:934][ 40]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-20.43.32:940][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-20.43.32:940][ 40]PIE: New page: PIE session: housemap (4 Ağu 2022 02:43:32)
+[2022.08.03-20.43.32:975][ 40]LogPlayLevel: Creating play world package: /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-20.43.32:978][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002658s)
+[2022.08.03-20.43.32:978][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/game/maps/housemap.housemap to /Game/game/maps/UEDPIE_0_housemap.housemap (0.002802s)
+[2022.08.03-20.43.32:978][ 40]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-20.43.32:978][ 40]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-20.43.32:979][ 40]LogAIModule: Creating AISystem for world housemap
+[2022.08.03-20.43.32:980][ 40]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2022.08.03-20.43.33:013][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.08.03-20.43.33:014][ 40]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.08.03-20.43.33:014][ 40]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-20.43.33:014][ 40]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-20.43.33:014][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-20.43.33:014][ 40]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-20.43.33:014][ 40]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-20.43.33:014][ 40]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-20.43.33:014][ 40]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-20.43.33:014][ 40]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-20.43.33:015][ 40]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-20.43.33:015][ 40]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-20.43.33:015][ 40]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-20.43.33:017][ 40]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-20.43.33:070][ 40]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (USB Audio Device)
+[2022.08.03-20.43.33:071][ 40]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-20.43.33:072][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-20.43.33:072][ 40]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-20.43.33:073][ 40]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.08.03-20.43.33:073][ 40]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.08.03-20.43.33:074][ 40]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.08.03-20.43.33:074][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.08.03-20.43.33:074][ 40]LogInit: FAudioDevice initialized.
+[2022.08.03-20.43.33:074][ 40]LogAudio: Display: Audio Device (ID: 4) registered with world 'housemap'.
+[2022.08.03-20.43.33:092][ 40]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-20.43.33:092][ 40]LogWorld: Bringing World /Game/game/maps/UEDPIE_0_housemap.housemap up for play (max tick rate 0) at 2022.08.03-23.43.33
+[2022.08.03-20.43.33:093][ 40]LogWorld: Bringing up level for play took: 0.000826
+[2022.08.03-20.43.33:095][ 40]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.08.03-20.43.33:100][ 40]PIE: Server logged in
+[2022.08.03-20.43.33:101][ 40]PIE: Play in editor total start time 0,161 seconds.
+[2022.08.03-20.43.36:906][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-20.43.36:907][299]LogWorld: BeginTearingDown for /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-20.43.36:907][299]LogWorld: UWorld::CleanupWorld for housemap, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-20.43.36:907][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.43.36:920][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-20.43.36:925][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.43.36:952][299]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-20.43.36:953][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.03-20.43.36:955][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.08.03-20.43.36:960][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-20.43.36:962][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.08.03-20.43.36:983][300]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.08.03-20.43.56:530][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.43.56:530][205]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.43.56:530][205]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_5
+[2022.08.03-20.43.58:985][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.43.58:985][358]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.43.58:986][358]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_6
+[2022.08.03-20.43.59:437][389]Cmd: TRANSACTION UNDO
+[2022.08.03-20.43.59:438][389]LogEditorTransaction: Undo Create Actors
+[2022.08.03-20.44.00:369][417]Cmd: TRANSACTION UNDO
+[2022.08.03-20.44.00:369][417]LogEditorTransaction: Undo Move Elements
+[2022.08.03-20.44.00:732][432]Cmd: TRANSACTION UNDO
+[2022.08.03-20.44.00:732][432]LogEditorTransaction: Undo Move Elements
+[2022.08.03-20.44.01:101][448]Cmd: TRANSACTION UNDO
+[2022.08.03-20.44.01:101][448]LogEditorTransaction: Undo Scale Elements
+[2022.08.03-20.44.01:497][465]Cmd: TRANSACTION UNDO
+[2022.08.03-20.44.01:497][465]LogEditorTransaction: Undo Scale Elements
+[2022.08.03-20.44.08:367][756]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.44.08:367][756]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.44.08:367][756]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_7
+[2022.08.03-20.44.10:122][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.44.10:123][868]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03
+[2022.08.03-20.44.10:123][868]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_8
+[2022.08.03-20.44.28:898][317]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.45.35:429][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.45.35:429][395]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.45.35:429][395]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_9
+[2022.08.03-20.45.37:306][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.45.37:306][516]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.45.37:306][516]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_10
+[2022.08.03-20.45.46:547][829]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.46.41:736][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02.Modern_House_05_fbx_MH1_OBJ_02
+[2022.08.03-20.46.41:736][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02.Modern_House_05_fbx_MH1_OBJ_02
+[2022.08.03-20.46.41:736][875]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02.Modern_House_05_fbx_MH1_OBJ_02 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_11
+[2022.08.03-20.46.49:860][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02.Modern_House_05_fbx_MH1_OBJ_02
+[2022.08.03-20.46.49:860][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02.Modern_House_05_fbx_MH1_OBJ_02
+[2022.08.03-20.46.49:861][413]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02.Modern_House_05_fbx_MH1_OBJ_02 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_12
+[2022.08.03-20.47.25:089][643]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.47.44:898][702]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.48.30:761][996]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Manny_Simple) ...
+[2022.08.03-20.48.47:915][364]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.49.01:119][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.08.03-20.49.01:129][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/housemap_Auto2
+[2022.08.03-20.49.01:129][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/housemap_Auto221EE1AA14A7C484C4AE2B68340AFDF43.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/housemap_Auto2.umap'
+[2022.08.03-20.49.01:130][402]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/game/maps/housemap' took 0.045
+[2022.08.03-20.49.01:130][402]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2022.08.03-20.49.01:131][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10] ([1] browsable assets)...
+[2022.08.03-20.49.01:178][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10.Modern_House_05_fbx_MH1_OBJ_10]
+[2022.08.03-20.49.01:178][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10]
+[2022.08.03-20.49.01:185][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10_Auto2
+[2022.08.03-20.49.01:185][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_10_ACE55896544AE2A1E021930BA32395F13.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_10_Auto2.uasset'
+[2022.08.03-20.49.01:186][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11] ([1] browsable assets)...
+[2022.08.03-20.49.01:204][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11]
+[2022.08.03-20.49.01:204][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11]
+[2022.08.03-20.49.01:209][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11_Auto2
+[2022.08.03-20.49.01:209][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_11_A46AD37A2460847C560CDA692494E4FC1.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11_Auto2.uasset'
+[2022.08.03-20.49.01:210][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01] ([1] browsable assets)...
+[2022.08.03-20.49.01:230][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01.Modern_House_05_fbx_MH1_OBJ_01]
+[2022.08.03-20.49.01:230][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01]
+[2022.08.03-20.49.01:235][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01_Auto2
+[2022.08.03-20.49.01:235][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_01_A9AC81C2E4D745F56ED4EC79F9936D335.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01_Auto2.uasset'
+[2022.08.03-20.49.01:235][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02] ([1] browsable assets)...
+[2022.08.03-20.49.01:254][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02.Modern_House_05_fbx_MH1_OBJ_02]
+[2022.08.03-20.49.01:254][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02]
+[2022.08.03-20.49.01:260][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02_Auto2
+[2022.08.03-20.49.01:260][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_02_AF3FCFE924869C65715EAEC9875981D2A.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02_Auto2.uasset'
+[2022.08.03-20.49.01:261][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03] ([1] browsable assets)...
+[2022.08.03-20.49.01:281][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03]
+[2022.08.03-20.49.01:281][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03]
+[2022.08.03-20.49.01:285][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03_Auto2
+[2022.08.03-20.49.01:285][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_03_AB079EF4D406E06CBAFA64EA0784F989B.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03_Auto2.uasset'
+[2022.08.03-20.49.01:286][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04] ([1] browsable assets)...
+[2022.08.03-20.49.01:303][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04]
+[2022.08.03-20.49.01:303][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04]
+[2022.08.03-20.49.01:306][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04_Auto2
+[2022.08.03-20.49.01:307][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_04_A40E1B007455359328D3A17A19C413CA8.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04_Auto2.uasset'
+[2022.08.03-20.49.01:307][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05] ([1] browsable assets)...
+[2022.08.03-20.49.01:319][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05.Modern_House_05_fbx_MH1_OBJ_05]
+[2022.08.03-20.49.01:319][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05]
+[2022.08.03-20.49.01:324][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05_Auto2
+[2022.08.03-20.49.01:324][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_05_A599A0B2F475938807B48408089182A2E.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05_Auto2.uasset'
+[2022.08.03-20.49.01:324][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06] ([1] browsable assets)...
+[2022.08.03-20.49.01:336][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06.Modern_House_05_fbx_MH1_OBJ_06]
+[2022.08.03-20.49.01:337][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06]
+[2022.08.03-20.49.01:343][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06_Auto2
+[2022.08.03-20.49.01:343][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_06_A792ED9744E7F9BECD59B29A486F7C023.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06_Auto2.uasset'
+[2022.08.03-20.49.01:344][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07] ([1] browsable assets)...
+[2022.08.03-20.49.01:361][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07.Modern_House_05_fbx_MH1_OBJ_07]
+[2022.08.03-20.49.01:361][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07]
+[2022.08.03-20.49.01:364][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07_Auto2
+[2022.08.03-20.49.01:364][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_07_A56BCF5E744B53382216374987567A688.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07_Auto2.uasset'
+[2022.08.03-20.49.01:365][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_08] ([1] browsable assets)...
+[2022.08.03-20.49.01:384][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_08.Modern_House_05_fbx_MH1_OBJ_08]
+[2022.08.03-20.49.01:384][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_08]
+[2022.08.03-20.49.01:387][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_08_Auto2
+[2022.08.03-20.49.01:387][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_08_A21215B9C4551082F875D97A8269726EB.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_08_Auto2.uasset'
+[2022.08.03-20.49.01:388][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_09] ([1] browsable assets)...
+[2022.08.03-20.49.01:408][402]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_09.Modern_House_05_fbx_MH1_OBJ_09]
+[2022.08.03-20.49.01:408][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_09]
+[2022.08.03-20.49.01:412][402]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_09_Auto2
+[2022.08.03-20.49.01:412][402]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Modern_House_05_fbx_MH1_OBJ_09_A26DDD58B408774140E5F2D91437A0970.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_09_Auto2.uasset'
+[2022.08.03-20.49.01:413][402]LogFileHelpers: Auto-saving content packages took 0.282
+[2022.08.03-20.49.21:890][465]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.49.59:715][159]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.50.11:795][527]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.50.19:414][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06.Modern_House_05_fbx_MH1_OBJ_06
+[2022.08.03-20.50.19:414][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06.Modern_House_05_fbx_MH1_OBJ_06
+[2022.08.03-20.50.19:414][601]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06.Modern_House_05_fbx_MH1_OBJ_06 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_13
+[2022.08.03-20.50.21:535][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06.Modern_House_05_fbx_MH1_OBJ_06
+[2022.08.03-20.50.21:535][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06.Modern_House_05_fbx_MH1_OBJ_06
+[2022.08.03-20.50.21:536][730]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06.Modern_House_05_fbx_MH1_OBJ_06 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_14
+[2022.08.03-20.51.26:087][436]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-20.51.26:093][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-20.51.26:094][436]PIE: New page: PIE session: housemap (4 Ağu 2022 02:51:26)
+[2022.08.03-20.51.26:094][436]LogPlayLevel: Creating play world package: /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-20.51.26:097][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002930s)
+[2022.08.03-20.51.26:097][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/game/maps/housemap.housemap to /Game/game/maps/UEDPIE_0_housemap.housemap (0.003038s)
+[2022.08.03-20.51.26:097][436]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-20.51.26:097][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-20.51.26:098][436]LogAIModule: Creating AISystem for world housemap
+[2022.08.03-20.51.26:098][436]LogPlayLevel: PIE: World Init took: (0.001411s)
+[2022.08.03-20.51.26:133][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.08.03-20.51.26:135][436]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.08.03-20.51.26:135][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-20.51.26:135][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-20.51.26:135][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-20.51.26:135][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-20.51.26:135][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-20.51.26:135][436]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-20.51.26:135][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-20.51.26:135][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-20.51.26:135][436]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-20.51.26:135][436]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-20.51.26:136][436]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-20.51.26:139][436]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-20.51.26:187][436]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (USB Audio Device)
+[2022.08.03-20.51.26:187][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-20.51.26:187][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-20.51.26:187][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-20.51.26:188][436]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.08.03-20.51.26:188][436]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.08.03-20.51.26:190][436]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.08.03-20.51.26:190][436]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.08.03-20.51.26:190][436]LogInit: FAudioDevice initialized.
+[2022.08.03-20.51.26:190][436]LogAudio: Display: Audio Device (ID: 5) registered with world 'housemap'.
+[2022.08.03-20.51.26:204][436]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-20.51.26:204][436]LogWorld: Bringing World /Game/game/maps/UEDPIE_0_housemap.housemap up for play (max tick rate 0) at 2022.08.03-23.51.26
+[2022.08.03-20.51.26:205][436]LogWorld: Bringing up level for play took: 0.000900
+[2022.08.03-20.51.26:207][436]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.08.03-20.51.26:211][436]PIE: Server logged in
+[2022.08.03-20.51.26:212][436]PIE: Play in editor total start time 0,118 seconds.
+[2022.08.03-20.51.28:308][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-20.51.28:308][569]LogWorld: BeginTearingDown for /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-20.51.28:308][569]LogWorld: UWorld::CleanupWorld for housemap, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-20.51.28:309][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.51.28:325][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-20.51.28:329][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.51.28:358][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-20.51.28:358][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.03-20.51.28:360][569]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.08.03-20.51.28:366][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.08.03-20.51.28:388][570]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.08.03-20.51.41:688][843]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.52.11:045][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.52.11:045][ 12]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.52.11:045][ 12]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_15
+[2022.08.03-20.52.13:649][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.52.13:649][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04
+[2022.08.03-20.52.13:650][183]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_16
+[2022.08.03-20.52.21:616][710]Cmd: DELETE
+[2022.08.03-20.52.21:616][710]Cmd: ACTOR DELETE
+[2022.08.03-20.52.21:619][710]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-20.52.21:650][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.08.03-20.52.21:651][710]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.08.03-20.52.46:316][891]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.53.15:480][339]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05.Modern_House_05_fbx_MH1_OBJ_05
+[2022.08.03-20.53.15:480][339]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05.Modern_House_05_fbx_MH1_OBJ_05
+[2022.08.03-20.53.15:481][339]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05.Modern_House_05_fbx_MH1_OBJ_05 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_17
+[2022.08.03-20.53.16:861][431]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05.Modern_House_05_fbx_MH1_OBJ_05
+[2022.08.03-20.53.16:861][431]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05.Modern_House_05_fbx_MH1_OBJ_05
+[2022.08.03-20.53.16:862][431]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05.Modern_House_05_fbx_MH1_OBJ_05 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_18
+[2022.08.03-20.54.26:096][323]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.54.42:092][ 88]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2022.08.03-20.54.42:092][ 88]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2022.08.03-20.55.06:562][590]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.55.48:631][878]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.56.31:548][276]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-20.56.31:554][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-20.56.31:554][276]PIE: New page: PIE session: housemap (4 Ağu 2022 02:56:31)
+[2022.08.03-20.56.31:555][276]LogPlayLevel: Creating play world package: /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-20.56.31:558][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003395s)
+[2022.08.03-20.56.31:558][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/game/maps/housemap.housemap to /Game/game/maps/UEDPIE_0_housemap.housemap (0.003495s)
+[2022.08.03-20.56.31:558][276]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-20.56.31:558][276]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-20.56.31:559][276]LogAIModule: Creating AISystem for world housemap
+[2022.08.03-20.56.31:559][276]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2022.08.03-20.56.31:595][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.08.03-20.56.31:597][276]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.08.03-20.56.31:597][276]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-20.56.31:597][276]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-20.56.31:597][276]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-20.56.31:597][276]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-20.56.31:597][276]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-20.56.31:597][276]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-20.56.31:597][276]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-20.56.31:597][276]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-20.56.31:597][276]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-20.56.31:597][276]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-20.56.31:598][276]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-20.56.31:600][276]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-20.56.31:650][276]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (USB Audio Device)
+[2022.08.03-20.56.31:650][276]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-20.56.31:650][276]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-20.56.31:650][276]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-20.56.31:651][276]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.08.03-20.56.31:651][276]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.08.03-20.56.31:653][276]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.08.03-20.56.31:653][276]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.08.03-20.56.31:653][276]LogInit: FAudioDevice initialized.
+[2022.08.03-20.56.31:653][276]LogAudio: Display: Audio Device (ID: 6) registered with world 'housemap'.
+[2022.08.03-20.56.31:666][276]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-20.56.31:667][276]LogWorld: Bringing World /Game/game/maps/UEDPIE_0_housemap.housemap up for play (max tick rate 0) at 2022.08.03-23.56.31
+[2022.08.03-20.56.31:668][276]LogWorld: Bringing up level for play took: 0.001287
+[2022.08.03-20.56.31:670][276]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.08.03-20.56.31:674][276]PIE: Server logged in
+[2022.08.03-20.56.31:675][276]PIE: Play in editor total start time 0,12 seconds.
+[2022.08.03-20.56.34:876][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-20.56.34:876][480]LogWorld: BeginTearingDown for /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-20.56.34:876][480]LogWorld: UWorld::CleanupWorld for housemap, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-20.56.34:876][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.56.34:892][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-20.56.34:896][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.56.34:925][480]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-20.56.34:925][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.03-20.56.34:927][480]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.08.03-20.56.34:933][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-20.56.34:935][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.08.03-20.56.34:960][481]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.08.03-20.57.04:231][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07.Modern_House_05_fbx_MH1_OBJ_07
+[2022.08.03-20.57.04:231][131]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07.Modern_House_05_fbx_MH1_OBJ_07
+[2022.08.03-20.57.04:231][131]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07.Modern_House_05_fbx_MH1_OBJ_07 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_19
+[2022.08.03-20.57.05:128][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07.Modern_House_05_fbx_MH1_OBJ_07
+[2022.08.03-20.57.05:128][183]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07.Modern_House_05_fbx_MH1_OBJ_07
+[2022.08.03-20.57.05:128][183]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07.Modern_House_05_fbx_MH1_OBJ_07 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_20
+[2022.08.03-20.57.05:858][230]Cmd: DELETE
+[2022.08.03-20.57.05:858][230]Cmd: ACTOR DELETE
+[2022.08.03-20.57.05:860][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-20.57.05:897][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.08.03-20.57.05:898][230]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.08.03-20.57.07:964][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11
+[2022.08.03-20.57.07:964][311]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11
+[2022.08.03-20.57.07:964][311]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_21
+[2022.08.03-20.57.08:802][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11
+[2022.08.03-20.57.08:802][360]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11
+[2022.08.03-20.57.08:803][360]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_22
+[2022.08.03-20.57.08:974][371]Cmd: DELETE
+[2022.08.03-20.57.08:974][371]Cmd: ACTOR DELETE
+[2022.08.03-20.57.08:975][371]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-20.57.09:005][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.08.03-20.57.09:006][371]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2022.08.03-20.57.11:288][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01.Modern_House_05_fbx_MH1_OBJ_01
+[2022.08.03-20.57.11:288][473]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01.Modern_House_05_fbx_MH1_OBJ_01
+[2022.08.03-20.57.11:288][473]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01.Modern_House_05_fbx_MH1_OBJ_01 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_23
+[2022.08.03-20.57.12:453][541]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01.Modern_House_05_fbx_MH1_OBJ_01
+[2022.08.03-20.57.12:454][541]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01.Modern_House_05_fbx_MH1_OBJ_01
+[2022.08.03-20.57.12:454][541]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01.Modern_House_05_fbx_MH1_OBJ_01 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_24
+[2022.08.03-20.57.14:055][618]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.57.23:409][754]Cmd: DELETE
+[2022.08.03-20.57.23:409][754]Cmd: ACTOR DELETE
+[2022.08.03-20.57.23:411][754]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-20.57.23:442][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.08.03-20.57.23:442][754]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.08.03-20.57.33:259][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11
+[2022.08.03-20.57.33:259][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11
+[2022.08.03-20.57.33:259][ 54]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_25
+[2022.08.03-20.57.34:664][139]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11
+[2022.08.03-20.57.34:664][139]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11
+[2022.08.03-20.57.34:665][139]LogActorFactory: Actor Factory spawned StaticMesh /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_11.Modern_House_05_fbx_MH1_OBJ_11 as actor: StaticMeshActor /Game/game/maps/housemap.housemap:PersistentLevel.StaticMeshActor_26
+[2022.08.03-20.57.37:360][188]Cmd: DELETE
+[2022.08.03-20.57.37:360][188]Cmd: ACTOR DELETE
+[2022.08.03-20.57.37:362][188]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-20.57.37:393][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.08.03-20.57.37:393][188]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2022.08.03-20.57.39:068][214]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.58.15:824][719]LogViewport: Scene viewport resized to 1523x870, mode Windowed.
+[2022.08.03-20.58.38:674][139]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-20.58.38:680][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-20.58.38:680][139]PIE: New page: PIE session: housemap (4 Ağu 2022 02:58:38)
+[2022.08.03-20.58.38:715][139]LogPlayLevel: Creating play world package: /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-20.58.38:717][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002483s)
+[2022.08.03-20.58.38:717][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/game/maps/housemap.housemap to /Game/game/maps/UEDPIE_0_housemap.housemap (0.002633s)
+[2022.08.03-20.58.38:717][139]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-20.58.38:717][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-20.58.38:718][139]LogAIModule: Creating AISystem for world housemap
+[2022.08.03-20.58.38:718][139]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2022.08.03-20.58.38:747][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.08.03-20.58.38:747][139]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.08.03-20.58.38:747][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-20.58.38:748][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-20.58.38:748][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-20.58.38:748][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-20.58.38:748][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-20.58.38:748][139]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-20.58.38:748][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-20.58.38:748][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-20.58.38:748][139]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-20.58.38:748][139]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-20.58.38:748][139]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-20.58.38:750][139]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-20.58.38:799][139]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (USB Audio Device)
+[2022.08.03-20.58.38:799][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-20.58.38:799][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-20.58.38:799][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-20.58.38:800][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.08.03-20.58.38:800][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.08.03-20.58.38:802][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.08.03-20.58.38:802][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.08.03-20.58.38:802][139]LogInit: FAudioDevice initialized.
+[2022.08.03-20.58.38:802][139]LogAudio: Display: Audio Device (ID: 7) registered with world 'housemap'.
+[2022.08.03-20.58.38:813][139]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-20.58.38:814][139]LogWorld: Bringing World /Game/game/maps/UEDPIE_0_housemap.housemap up for play (max tick rate 0) at 2022.08.03-23.58.38
+[2022.08.03-20.58.38:814][139]LogWorld: Bringing up level for play took: 0.001022
+[2022.08.03-20.58.38:816][139]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.08.03-20.58.38:820][139]PIE: Server logged in
+[2022.08.03-20.58.38:821][139]PIE: Play in editor total start time 0,142 seconds.
+[2022.08.03-20.58.49:405][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-20.58.49:405][868]LogWorld: BeginTearingDown for /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-20.58.49:405][868]LogWorld: UWorld::CleanupWorld for housemap, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-20.58.49:405][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.58.49:419][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-20.58.49:424][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-20.58.49:453][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-20.58.49:453][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.03-20.58.49:455][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.08.03-20.58.49:462][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.08.03-20.58.49:495][869]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.08.03-20.58.52:073][887]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-20.59.17:955][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.08.03-20.59.17:965][963]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/game/maps/housemap_Auto3
+[2022.08.03-20.59.17:965][963]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/housemap_Auto3BCB3C44E45E01349B39B6BB362A370E9.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/Autosaves/Game/game/maps/housemap_Auto3.umap'
+[2022.08.03-20.59.17:967][963]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/game/maps/housemap' took 0.043
+[2022.08.03-20.59.17:967][963]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2022.08.03-20.59.41:652][ 35]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-21.00.53:044][342]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-21.00.53:051][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-21.00.53:052][342]PIE: New page: PIE session: housemap (4 Ağu 2022 03:00:53)
+[2022.08.03-21.00.53:052][342]LogPlayLevel: Creating play world package: /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-21.00.53:055][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003020s)
+[2022.08.03-21.00.53:055][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/game/maps/housemap.housemap to /Game/game/maps/UEDPIE_0_housemap.housemap (0.003134s)
+[2022.08.03-21.00.53:055][342]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-21.00.53:055][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-21.00.53:056][342]LogAIModule: Creating AISystem for world housemap
+[2022.08.03-21.00.53:056][342]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2022.08.03-21.00.53:087][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.08.03-21.00.53:088][342]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.08.03-21.00.53:088][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-21.00.53:088][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-21.00.53:088][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-21.00.53:088][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-21.00.53:088][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-21.00.53:088][342]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-21.00.53:088][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-21.00.53:088][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-21.00.53:088][342]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-21.00.53:088][342]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-21.00.53:088][342]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-21.00.53:090][342]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-21.00.53:139][342]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (USB Audio Device)
+[2022.08.03-21.00.53:139][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-21.00.53:139][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-21.00.53:139][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-21.00.53:140][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.08.03-21.00.53:140][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.08.03-21.00.53:142][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.08.03-21.00.53:142][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.08.03-21.00.53:142][342]LogInit: FAudioDevice initialized.
+[2022.08.03-21.00.53:142][342]LogAudio: Display: Audio Device (ID: 8) registered with world 'housemap'.
+[2022.08.03-21.00.53:157][342]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-21.00.53:157][342]LogWorld: Bringing World /Game/game/maps/UEDPIE_0_housemap.housemap up for play (max tick rate 0) at 2022.08.04-00.00.53
+[2022.08.03-21.00.53:158][342]LogWorld: Bringing up level for play took: 0.000861
+[2022.08.03-21.00.53:160][342]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.08.03-21.00.53:164][342]PIE: Server logged in
+[2022.08.03-21.00.53:165][342]PIE: Play in editor total start time 0,113 seconds.
+[2022.08.03-21.01.02:993][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-21.01.02:993][ 20]LogWorld: BeginTearingDown for /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-21.01.02:993][ 20]LogWorld: UWorld::CleanupWorld for housemap, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.01.02:994][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-21.01.03:011][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-21.01.03:016][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-21.01.03:045][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-21.01.03:045][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.08.03-21.01.03:047][ 20]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.08.03-21.01.03:051][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-21.01.03:054][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.03-21.01.03:085][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.08.03-21.01.19:316][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.08.03-21.01.19:324][880]LogSavePackage: Moving output files for package: /Game/game/maps/housemap
+[2022.08.03-21.01.19:324][880]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/housemap8B010EFC427B26E16F0F24A3D15E9549.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Content/game/maps/housemap.umap'
+[2022.08.03-21.01.19:331][880]LogFileHelpers: No new changes to save!
+[2022.08.03-21.01.19:345][880]AssetCheck: New page: Asset Save: housemap
+[2022.08.03-21.01.19:345][880]LogContentValidation: Display: Validating World /Game/game/maps/housemap.housemap
+[2022.08.03-21.01.24:656][ 76]LogViewport: Scene viewport resized to 878x870, mode Windowed.
+[2022.08.03-21.01.31:010][440]LogViewport: Scene viewport resized to 1102x870, mode Windowed.
+[2022.08.03-21.01.31:877][488]LogViewport: Scene viewport resized to 1910x870, mode Windowed.
+[2022.08.03-21.01.32:574][518]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.03-21.01.32:581][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.03-21.01.32:582][518]PIE: New page: PIE session: housemap (4 Ağu 2022 03:01:32)
+[2022.08.03-21.01.32:582][518]LogPlayLevel: Creating play world package: /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-21.01.32:586][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004167s)
+[2022.08.03-21.01.32:586][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/game/maps/housemap.housemap to /Game/game/maps/UEDPIE_0_housemap.housemap (0.004285s)
+[2022.08.03-21.01.32:586][518]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.03-21.01.32:586][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.03-21.01.32:587][518]LogAIModule: Creating AISystem for world housemap
+[2022.08.03-21.01.32:587][518]LogPlayLevel: PIE: World Init took: (0.001071s)
+[2022.08.03-21.01.32:672][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.08.03-21.01.32:675][518]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.08.03-21.01.32:675][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.03-21.01.32:675][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.03-21.01.32:675][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.03-21.01.32:675][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.03-21.01.32:675][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.03-21.01.32:675][518]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.03-21.01.32:675][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.03-21.01.32:675][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.03-21.01.32:675][518]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.03-21.01.32:675][518]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.03-21.01.32:675][518]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.03-21.01.32:678][518]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.03-21.01.32:726][518]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (USB Audio Device)
+[2022.08.03-21.01.32:726][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.03-21.01.32:726][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.03-21.01.32:726][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.03-21.01.32:729][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.08.03-21.01.32:729][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.08.03-21.01.32:731][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.08.03-21.01.32:731][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.08.03-21.01.32:731][518]LogInit: FAudioDevice initialized.
+[2022.08.03-21.01.32:731][518]LogAudio: Display: Audio Device (ID: 9) registered with world 'housemap'.
+[2022.08.03-21.01.32:741][518]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.08.03-21.01.32:742][518]LogWorld: Bringing World /Game/game/maps/UEDPIE_0_housemap.housemap up for play (max tick rate 0) at 2022.08.04-00.01.32
+[2022.08.03-21.01.32:742][518]LogWorld: Bringing up level for play took: 0.000980
+[2022.08.03-21.01.32:744][518]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.08.03-21.01.32:748][518]PIE: Server logged in
+[2022.08.03-21.01.32:749][518]PIE: Play in editor total start time 0,167 seconds.
+[2022.08.03-21.01.43:073][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-21.01.43:073][233]LogWorld: BeginTearingDown for /Game/game/maps/UEDPIE_0_housemap
+[2022.08.03-21.01.43:074][233]LogWorld: UWorld::CleanupWorld for housemap, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.01.43:074][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-21.01.43:087][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.03-21.01.43:092][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.03-21.01.43:117][233]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.03-21.01.43:118][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.08.03-21.01.43:120][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.08.03-21.01.43:124][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.03-21.01.43:162][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.08.03-21.01.43:190][234]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.08.03-21.01.46:211][365]LogViewport: Scene viewport resized to 1102x870, mode Windowed.
+[2022.08.03-21.01.47:720][465]LogViewport: Scene viewport resized to 1910x870, mode Windowed.
+[2022.08.03-21.01.49:711][548]LogViewport: Scene viewport resized to 1523x870, mode Windowed.
+[2022.08.03-21.01.52:534][697]Cmd: DELETE
+[2022.08.03-21.01.52:534][697]Cmd: ACTOR DELETE
+[2022.08.03-21.01.52:535][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-21.01.52:536][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-21.01.52:537][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-21.01.52:537][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-21.01.52:538][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-21.01.52:539][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.08.03-21.01.52:539][697]LogEditorActor: Deleted Actor: PointLight
+[2022.08.03-21.01.52:568][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.08.03-21.01.52:571][697]LogEditorActor: Deleted 7 Actors (0.038 secs)
+[2022.08.03-21.01.58:108][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.03-21.01.59:329][941]LogSlate: Window 'Delete Assets' being destroyed
+[2022.08.03-21.01.59:368][941]LogUObjectGlobals: Force Deleting 12 Package(s):
+	Asset Name: /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_09.Modern_House_05_fbx_MH1_OBJ_09
+	Asset Type: StaticMesh
+	Asset Name: /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_08.Modern_House_05_fbx_MH1_OBJ_08
+	Asset Type: StaticMesh
+	Asset Name: /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_07.Modern_House_05_fbx_MH1_OBJ_07
+	Asset Type: StaticMesh
+	Asset Name: /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_06.Modern_House_05_fbx_MH1_OBJ_06
+	Asset Type: StaticMesh
+	Asset Name: /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_05.Modern_House_05_fbx_MH1_OBJ_05
+	Asset Type: StaticMesh
+	Asset Name: /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_04.Modern_House_05_fbx_MH1_OBJ_04
+	Asset Type: StaticMesh
+	Asset Name: /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_03.Modern_House_05_fbx_MH1_OBJ_03
+	Asset Type: StaticMesh
+	Asset Name: /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_02.Modern_House_05_fbx_MH1_OBJ_02
+	Asset Type: StaticMesh
+	Asset Name: /Game/game/maps/house/Modern_House_01.Modern_House_01
+	Asset Type: Material
+	Asset Name: /Game/game/maps/house/Modern_House_05_fbx_MH1_OBJ_01.Modern_House_05_fbx_MH1_OBJ_01
+	Asset Type: StaticMesh
+[2022.08.03-21.02.00:327][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.08.03-21.02.00:355][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.08.03-21.02.00:384][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.08.03-21.02.32:196][ 69]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-21.03.10:981][185]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-21.03.26:455][302]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2022.08.03-21.03.51:181][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.03-21.03.51:188][473]LogSavePackage: Moving output files for package: /Game/game/maps/housemap
+[2022.08.03-21.03.51:189][473]LogSavePackage: Moving '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Saved/housemapD523A6CF44F518B403E243B858EE47E6.tmp' to '../../../../Users/user/Documents/Unreal Projects/gizlilikoyunu/gizlilikoyunu/Content/game/maps/housemap.umap'
+[2022.08.03-21.03.51:195][473]LogFileHelpers: No new changes to save!
+[2022.08.03-21.03.51:205][473]AssetCheck: New page: Asset Save: housemap
+[2022.08.03-21.03.51:205][473]LogContentValidation: Display: Validating World /Game/game/maps/housemap.housemap
+[2022.08.03-21.03.51:818][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.03-21.03.51:819][512]LogStall: Shutdown...
+[2022.08.03-21.03.51:821][512]LogStall: Shutdown complete.
+[2022.08.03-21.03.51:850][512]LogSlate: Window 'gizlilikoyunu - Unreal Editor' being destroyed
+[2022.08.03-21.03.51:948][513]Cmd: QUIT_EDITOR
+[2022.08.03-21.03.51:948][513]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.08.03-21.03.51:951][513]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.08.03-21.03.51:951][513]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.08.03-21.03.51:951][513]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.08.03-21.03.52:779][513]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.08.03-21.03.52:779][513]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.08.03-21.03.52:779][513]LogAudio: Display: Audio Device unregistered from world 'housemap'.
+[2022.08.03-21.03.52:779][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.08.03-21.03.52:781][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.08.03-21.03.52:806][513]LogAudio: Display: Audio Device Manager Shutdown
+[2022.08.03-21.03.52:808][513]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.08.03-21.03.52:808][513]LogExit: Preparing to exit.
+[2022.08.03-21.03.52:842][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.52:846][513]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.08.03-21.03.53:852][513]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.03.53:855][513]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.03.53:858][513]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.03.53:861][513]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.03.53:864][513]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.03.53:867][513]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.03.53:871][513]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.03.53:875][513]LogWorld: UWorld::CleanupWorld for housemap, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.03.53:877][513]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.08.03-21.03.53:914][513]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.08.03-21.03.53:923][513]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.08.03-21.03.53:924][513]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.08.03-21.03.53:927][513]LogExit: Editor shut down
+[2022.08.03-21.03.53:928][513]LogExit: Transaction tracking system shut down
+[2022.08.03-21.03.54:230][513]LogExit: Object subsystem successfully closed.
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: ================================================
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Total job queries 194, among them cache hits 2 (1.03%)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Tracking 192 distinct input hashes that result in 4 distinct outputs (2.08%)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 1024.00 MB (1.00 GB) budget. Usage: 0.00%
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Shaders Compiled: 94
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Jobs assigned 192, completed 192 (100.00%)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Average time worker was idle: 8.51 s
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Time job spent in pending queue: average 27.64 s, longest 72.98 s
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Job execution time: average 2.19 s, max 6.09 s
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Job life time (pending + execution): average 29.83 s, max 73.94
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 142.67 s
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Jobs were issued in 192 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Average processing rate: 1.35 jobs/sec
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Effective parallelization: 2.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   47 times, average 2.53 sec, max 5.30 sec, min 1.53 sec)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   47 times, average 2.49 sec, max 5.41 sec, min 1.47 sec)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled   47 times, average 2.39 sec, max 4.83 sec, min 1.37 sec)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.91 sec, max 2.01 sec, min 1.81 sec)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 1.73 sec, max 1.79 sec, min 1.68 sec)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 29.97% of total time (compiled   47 times, average 2.53 sec, max 5.30 sec, min 1.53 sec)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.42% of total time (compiled   47 times, average 2.49 sec, max 5.41 sec, min 1.47 sec)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display:                                                 FLumenCardVS - 28.21% of total time (compiled   47 times, average 2.39 sec, max 4.83 sec, min 1.37 sec)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 10.56% of total time (compiled   47 times, average 0.89 sec, max 2.43 sec, min 0.42 sec)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 0.96% of total time (compiled    2 times, average 1.91 sec, max 2.01 sec, min 1.81 sec)
+[2022.08.03-21.03.54:241][513]LogShaderCompilers: Display: ================================================
+[2022.08.03-21.03.54:269][513]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module SubobjectEditor (888)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (886)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module NewLevelDialog (884)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module BlueprintGraph (882)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (880)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module Voice (878)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (876)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module AddContentDialog (874)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module WidgetCarousel (873)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module SceneOutliner (870)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module StatusBar (868)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (866)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module StatsViewer (864)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (862)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module AutomationWorker (860)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (858)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module GooglePADEditor (856)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (854)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (852)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (850)
+[2022.08.03-21.03.54:291][513]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (848)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (846)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (844)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (842)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (840)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (838)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (836)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module WebMMedia (834)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (832)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (830)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module SequenceRecorder (829)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (826)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (824)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (822)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (820)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (818)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (816)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (814)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module PlanarCut (812)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module CharacterAI (810)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module TextureAlignMode (808)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module BspMode (806)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module GeometryMode (804)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (802)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module IKRigEditor (800)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module ControlRigSplineEditor (798)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module ControlRigEditor (796)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module AnimationEditor (795)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module SmartSnapping (792)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module SessionServices (790)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module MeshPaint (788)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (786)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module PlacementMode (785)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module FoliageEdit (782)
+[2022.08.03-21.03.54:292][513]LogModuleManager: Shutting down and abandoning module LandscapeEditor (780)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (778)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module ActorPickerMode (776)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module ViewportSnapping (774)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module EditorWidgets (772)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module ViewportInteraction (770)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module ClothPainter (768)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (767)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module LogVisualizer (764)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module IntroTutorials (762)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (760)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (758)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (757)
+[2022.08.03-21.03.54:293][513]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (755)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (752)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (750)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (748)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (746)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module CSVtoSVG (744)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (742)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module EditorConfig (740)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (738)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module EditorFramework (736)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (734)
+[2022.08.03-21.03.54:961][513]LogModuleManager: Shutting down and abandoning module TraceInsights (732)
+[2022.08.03-21.03.54:961][513]MemoryProfiler: Shutdown
+[2022.08.03-21.03.54:962][513]NetworkingProfiler: Shutdown
+[2022.08.03-21.03.54:962][513]LoadingProfiler: Shutdown
+[2022.08.03-21.03.54:962][513]TimingProfiler: Shutdown
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module TraceServices (731)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (728)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (727)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module InputBindingEditor (724)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module MergeActors (722)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (720)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module LocalizationService (719)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module HardwareTargeting (716)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (714)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module UndoHistory (712)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module XmlParser (710)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module Blutility (708)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (706)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (705)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (702)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (701)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module SettingsEditor (698)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module ProjectLauncher (696)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module SessionFrontend (694)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module ProfilerClient (692)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module DeviceManager (690)
+[2022.08.03-21.03.54:962][513]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (689)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module AutomationController (686)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module AutomationWindow (684)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module Layers (682)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (680)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module DetailCustomizations (678)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module PackagesDialog (676)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (674)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module Persona (672)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (671)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module AnimGraph (669)
+[2022.08.03-21.03.54:973][513]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2022.08.03-21.03.54:981][513]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2022.08.03-21.03.54:981][513]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2022.08.03-21.03.54:981][513]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2022.08.03-21.03.54:981][513]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2022.08.03-21.03.54:983][513]LogModuleManager: Shutting down and abandoning module NaniteTools (656)
+[2022.08.03-21.03.54:983][513]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (654)
+[2022.08.03-21.03.54:983][513]LogModuleManager: Shutting down and abandoning module SourceControlWindows (652)
+[2022.08.03-21.03.54:983][513]LogModuleManager: Shutting down and abandoning module OutputLog (650)
+[2022.08.03-21.03.54:984][513]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2022.08.03-21.03.54:984][513]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (644)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module MovieScene (642)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (640)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module LauncherPlatform (638)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module AnalyticsET (636)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module PortalServices (634)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module PortalRpc (632)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module MessagingRpc (630)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (628)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module AudioMixer (627)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module AudioMixerCore (626)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (614)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (612)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module TypedElementFramework (610)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (608)
+[2022.08.03-21.03.54:990][513]LogModuleManager: Shutting down and abandoning module ProfilerService (606)
+[2022.08.03-21.03.55:213][513]LogModuleManager: Shutting down and abandoning module TaskGraph (604)
+[2022.08.03-21.03.55:213][513]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (602)
+[2022.08.03-21.03.55:213][513]LogModuleManager: Shutting down and abandoning module MegascansPlugin (600)
+[2022.08.03-21.03.55:213][513]LogModuleManager: Shutting down and abandoning module Bridge (598)
+[2022.08.03-21.03.55:213][513]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (596)
+[2022.08.03-21.03.55:213][513]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (594)
+[2022.08.03-21.03.55:213][513]LogModuleManager: Shutting down and abandoning module InterchangePipelines (592)
+[2022.08.03-21.03.55:213][513]LogModuleManager: Shutting down and abandoning module InterchangeExport (590)
+[2022.08.03-21.03.55:213][513]LogModuleManager: Shutting down and abandoning module InterchangeMessages (588)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module InterchangeImport (586)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module InterchangeNodes (584)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (582)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (580)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module InterchangeEditor (578)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (576)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (574)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (572)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module CollectionManager (571)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module SynthesisEditor (568)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module Synthesis (566)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ResonanceAudio (564)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (562)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (560)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (558)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (556)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ModelingOperators (554)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (552)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ModelingComponents (550)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (548)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module MeshModelingTools (546)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module HairStrandsEditor (544)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module GooglePAD (542)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module DynamicMesh (540)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (538)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (536)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (534)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (532)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (530)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module CableComponent (528)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module AudioCapture (526)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (525)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module AssetTags (522)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (520)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (518)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module AppleImageUtils (516)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module AndroidPermission (514)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (512)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (510)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module TemplateSequence (506)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (504)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module SequencerScripting (502)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module MediaCompositing (500)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module ImgMedia (498)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module AlembicImporter (496)
+[2022.08.03-21.03.55:214][513]LogModuleManager: Shutting down and abandoning module AlembicLibrary (495)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module GeometryCache (494)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (493)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (488)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (486)
+[2022.08.03-21.03.55:215][513]LogOpenImageDenoise: OIDN shutting down
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (484)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (482)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (480)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (478)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module MeshLODToolset (476)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (474)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (472)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (470)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (468)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (467)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (464)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (462)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module ChaosNiagara (460)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module FractureEditor (458)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (456)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module BackChannel (454)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (452)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module AutomationUtils (450)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (448)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (446)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (444)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module StylusInput (442)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (440)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (438)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module PluginBrowser (436)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (434)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (432)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (430)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (428)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module EditorDebugTools (426)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module CurveEditorTools (424)
+[2022.08.03-21.03.55:215][513]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (422)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module CryptoKeys (420)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (418)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (416)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module UObjectPlugin (414)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module UnrealInsightsInterface (412)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (410)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (408)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module PluginUtils (406)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (404)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module GitSourceControl (402)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (400)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (398)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (396)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module ControlRigSpline (394)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (392)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (390)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (388)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (386)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module Paper2DEditor (384)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (382)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (380)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module SoundFields (378)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module SignificanceManager (376)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (374)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (372)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (370)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module ActorSequence (362)
+[2022.08.03-21.03.55:216][513]LogModuleManager: Shutting down and abandoning module UdpMessaging (360)
+[2022.08.03-21.03.55:317][513]LogModuleManager: Shutting down and abandoning module TcpMessaging (358)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (356)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (354)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module Niagara (352)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module SignalProcessing (351)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module NiagaraEditor (349)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module NiagaraCore (346)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (344)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module PBIK (342)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module FullBodyIK (340)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (338)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (336)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module FacialAnimation (334)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module DataValidation (332)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (330)
+[2022.08.03-21.03.55:418][513]LogModuleManager: Shutting down and abandoning module LevelEditor (329)
+[2022.08.03-21.03.55:420][513]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (328)
+[2022.08.03-21.03.55:420][513]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (326)
+[2022.08.03-21.03.55:420][513]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (324)
+[2022.08.03-21.03.55:420][513]LogModuleManager: Shutting down and abandoning module MainFrame (322)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module HotReload (321)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module ContentBrowser (317)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module ToolMenus (316)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module ContentBrowserData (314)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module TreeMap (311)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (308)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (306)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module AnimationSharing (304)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module GameplayCameras (302)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (300)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module IKRig (298)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (296)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module ControlRig (294)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module LevelSequence (293)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (290)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module Paper2D (288)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (286)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (284)
+[2022.08.03-21.03.55:421][513]LogModuleManager: Shutting down and abandoning module AndroidFileServer (282)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (280)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module PacketHandler (278)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module AnimationDataController (276)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (253)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module SlateReflector (244)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module Slate (242)
+[2022.08.03-21.03.55:422][513]LogModuleManager: Shutting down and abandoning module SlateCore (240)
+[2022.08.03-21.03.55:423][513]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (238)
+[2022.08.03-21.03.55:423][513]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (236)
+[2022.08.03-21.03.55:423][513]LogModuleManager: Shutting down and abandoning module UnrealEd (234)
+[2022.08.03-21.03.55:423][513]LogModuleManager: Shutting down and abandoning module MRMesh (232)
+[2022.08.03-21.03.55:423][513]LogModuleManager: Shutting down and abandoning module Messaging (230)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (228)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (226)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module Networking (224)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module Core (222)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module MaterialEditor (220)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module MovieSceneTools (218)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module CurveEditor (217)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module Sequencer (215)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module EditorStyle (214)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module KismetCompiler (210)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module MeshBuilder (208)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module NaniteBuilder (206)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2022.08.03-21.03.55:424][513]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module TargetPlatform (182)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (181)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (179)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module AudioFormatBink (171)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (169)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (167)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (165)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (163)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (161)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (159)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (157)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (155)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (153)
+[2022.08.03-21.03.55:427][513]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (151)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module TextureFormat (149)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (148)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (146)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (140)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (138)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module ImageWrapper (137)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module TurnkeySupport (133)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module InputCore (130)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module Settings (128)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (126)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module D3D11RHI (110)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (92)
+[2022.08.03-21.03.55:428][513]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.08.03-21.03.55:430][513]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.08.03-21.03.55:431][513]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.08.03-21.03.55:451][513]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.08.03-21.03.55:451][513]LogHttp: Warning: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.08.03-21.03.55:451][513]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA4A0977-444C-19FA-FC82-D5925A5CBAA2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=d342bd21481a0faf7d30ea8de534112f%7Cb8b46645f4c0498589c553dc20a949df%7C3f8ad128-9ed6-42dc-a7c8-e63718e9c4e0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.08.03-21.03.55:451][513]LogHttp: Warning: Cleaning up 1 outstanding Http requests.
+[2022.08.03-21.03.55:484][513]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.08.03-21.03.55:485][513]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.08.03-21.03.55:489][513]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.08.03-21.03.55:491][513]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2022.08.03-21.03.55:491][513]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2022.08.03-21.03.55:491][513]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2022.08.03-21.03.55:491][513]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2022.08.03-21.03.55:491][513]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2022.08.03-21.03.55:491][513]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.08.03-21.03.55:492][513]LogXGEController: Cleaning working directory: C:/Users/user/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.08.03-21.03.55:492][513]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.08.03-21.03.55:493][513]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.08.03-21.03.55:493][513]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.08.03-21.03.55:493][513]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.08.03-21.03.55:493][513]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.08.03-21.03.55:493][513]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.08.03-21.03.55:493][513]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.08.03-21.03.55:494][513]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.08.03-21.03.55:494][513]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.08.03-21.03.55:494][513]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.08.03-21.03.55:494][513]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.08.03-21.03.55:494][513]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.08.03-21.03.55:494][513]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.08.03-21.03.55:494][513]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.08.03-21.03.55:508][513]LogD3D11RHI: Shutdown
+[2022.08.03-21.03.55:508][513]LogD3D11RHI: CleanupD3DDevice
+[2022.08.03-21.03.55:521][513]LogExit: Exiting.
+[2022.08.03-21.03.55:529][513]Log file closed, 08/04/22 00:03:55
